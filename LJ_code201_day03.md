@@ -1,4 +1,4 @@
-Day 3
+<h1> Day 3 </h1>
 
 Today was a BIG day.
  
