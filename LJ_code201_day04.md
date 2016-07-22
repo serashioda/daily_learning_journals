@@ -1,3 +1,5 @@
+Day 4
+
 Today was awesome! I learned a lot.
 
 Code review was helpful- Lee did a great job. Learning from others' approach, style, correct code, and errors is a great way to learn!
