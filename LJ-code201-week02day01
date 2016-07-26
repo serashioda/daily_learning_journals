@@ -1,0 +1,22 @@
+<h1> </h1>
+
+Today's lecture was a bit differet. We definitely got a taste of the "week 2" medicine today!
+I really enjoyed the articles on DOM that we read, some really great quotes/advice.
+
+For records sake, I would like to list the important points/quotes from the articles (because they are that good!):
+    Article 1 [Article on Domain Modeling (Sobol)]: 
+    
+    - Hardest part about writing code is understanding the problem first, breaking down the components (aka. effectively digesting the problem), before trying to model it.
+    
+    - If you do this part right (effectively digesting the problem), you will be able to surpass your current coding capabilities and do it better/more efficiently by being methodical in the process.
+      → be religiously organized in this process 
+    
+    
+    Article 2 ["Understanding The Problem Domain Is The Hardest Part Of Programming" (Sonmez)]
+    
+    - “The real world is a messy place.  Many of the problem domains we face as programmers are difficult to understand and look completely different depending on your viewpoint.”
+    - “You can often make the problem domain easier by cutting out cases and narrowing your focus to a particular part of the problem.”
+    - “It is easy to fall into the trap of thinking you understand enough of the problem to get started coding it.”
+    
+Since today's lab (Get started on the Salmon Cookies project) was a huge part of the day's experience, I am also quoting from my comments: 
+      "That was challenging, but in a super fun way. There were a lots of roadblocks, and "hit our heads on the wall" moment . Knowing that I was not the only one struggling helped with the frustration. Realizing that the state of the class as a whole thinking to the point smoke was coming out of our ears was completely intentional, was both frustrating and funny. I will truly appreciate what is to come tomorrow- again, the point of this exercise today. Thank you!"
