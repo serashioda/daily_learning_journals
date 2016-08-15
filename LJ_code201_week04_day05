@@ -1,0 +1,17 @@
+Week 4 Day 5
+
+I am pretty much going to directly quote from Project Week: Report #5, because it pretty much sums up my day. After all, it's project presentation day!
+
+  We made the last minute edits to CSS/HTML, along with adding our about_me developer stories, the small stuff, which isn't a big deal to do on the last day.... but the engine (game.js) was not fully functional. Within the hour of presentations, the instructors were encouraging our team to just prepare for the presentation and embrace the blood and tears.. With the help of Brian, we were able to get the game engine working well enough for presentation. In the presentation, some of our shortcoming were made apparent, but we made sure the make that struggle our story, and that learning from it was the point.
+
+  The Score page was my project and I finished that today. I wrote the JS for it, and styled the page- I added to the CSS/HTML Adrian wrote, and designed the "Jhonny" character, which became our logo. I also animated Jhonny as a GIF to "hurray" his arms up/down for the score page. I also built the intelligence behind the submit button on the pop-up when the game ends that renders that data and links to the scores page, which adds the player into the "previous" players' s scores, and ranks you amongst them. The most challenging part was the ranking. Sam worked with me for 30 minutes trying to input the real player data into the faux data, and have it rank appropriately (so it looks like there's more previous use). We had to go back to how I had it originally, where we could either display the faux data or the the new user data, but not both. 
+
+  I made peace with the fact that my rendering of data, although working fine in terms of ranking and displaying real data, was not going to output the way I wanted (integrated with the faux data). However, for the game.js, we kept crunching away trying to make the code (the engine) work, and in the nick of time made it presentable enough. I am frankly not sure what was made to work since the wrong answer was still killing off the user.
+
+  I think the most challenging thing was having a member of our team from the beginning extremely insistent on the game we were to build and wanting the write the engine pretty much on his own, and wanting to jump right in to write some "sick code". I think the need to impress and have the best project and even ego got in the way of the productivity and the purpose of the project, which is for us to learn. In the end, I  (along with most of the team) embraced that we have all the blood and tears stories to share, and that we are better from it than the teams that had smooth sailing throughout their project.  
+
+  Ultimately I am very proud of our team and our product, and hope to turn it in after making it a bit more presentable.
+  
+After project presentations, we got together for class photo, got tea shirts and cupcakes, and some of us went on to talk more about our awesome projects. We invited Sam too, but he couldn't make it. Next time! 
+
+Thanks everyone (Sam, TA's, and the awesome classmates), for the unforgettable experience. More fun to come. :)
